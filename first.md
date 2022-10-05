@@ -31,3 +31,5 @@
 **git branch new_branch_name** - эта команда создаёт новую ветку.
 
 **git branch -d branch_name** - эта команда удалят ветку.
+
+**git checkout branch_name** - эта команда помогает переключиться на другую ветку.
